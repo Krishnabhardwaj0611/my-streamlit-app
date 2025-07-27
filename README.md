@@ -90,9 +90,11 @@ Example:
 
 ## 👨‍💻 Author
 
-- **Utkarsh Maheshwari**
-- 📧 utkarsh.maheshwari0106@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/utkarsh-maheshwari-6b9978266)
+
+- **Krishna Bhardwaj**
+- 📧 bhardwajkrishna880@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-bhardwaj-658038294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
 
